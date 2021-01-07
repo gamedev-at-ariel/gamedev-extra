@@ -1,5 +1,4 @@
 # twine-to-unity
-Done as bonus assignments in the course [gamedev-5780](https://github.com/erelsgl-at-ariel/gamedev-5780)
 
 **Created by:**
 
